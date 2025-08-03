@@ -5,7 +5,7 @@ This folder contains my latest resume showcasing my:
 - Education & Core Domain
 - Technical Skills & Tools
 - Project Highlights
-- Internship Experience
+- Experience
 
 > ✨ Always learning. Always building.
 
