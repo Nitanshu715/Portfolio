@@ -9,7 +9,7 @@
 ## 📄 Resume & Certifications
 
 ### 📅 Resume
-- [Nitanshu_Tak_Resume.pdf](./resume/Nitanshu_Tak_Resume.pdf)
+- [Nitanshu_Tak_Resume.pdf](./resume/NitanshuTak_Resume.pdf)
 
 ### 🏅 Certifications
 - [Frontend Internship - The Waiter Company](./certificates/TheWaiterCompanyInternshipCertificate.pdf)
