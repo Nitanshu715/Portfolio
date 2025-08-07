@@ -12,10 +12,10 @@
 - [Nitanshu_Tak_Resume.pdf](./resume/NitanshuTak_Resume.pdf)
 
 ### 🏅 Certifications
-- [Frontend Internship - The Waiter Company](./certificates/TheWaiterCompanyInternshipCertificate.pdf)
+- [Software Development Internship - The Waiter Company](./certificates/TheWaiterCompanyInternshipCertificate.pdf)
 - [AWS Academy Cloud Foundations](./certificates/AWSAcademyCloudFoundations.jpg)
 - [Introduction to MongoDB - Simplilearn](./certificates/IntroductionToMongoDBCertification.pdf)
-
+- [AdobeIndiaHackathonParticipationCertificate](./certificates/AdobeIndiaHackathonParticipationCertificate.pdf)
 ---
 
 ## 🧠 Projects
