@@ -26,7 +26,7 @@
 | [FlightOpsPortal](https://github.com/Nitanshu715/FlightOps-Portal)     | Admin/User CLI system to manage/view flight data | Python, File I/O, Menu-Driven Programming |
 | [AWSInfraControl](https://github.com/Nitanshu715/-AWS-InfraControl-CLI-Tool)     | Terminal-based EC2 lifecycle controller with logging & alerts | Python, AWS CLI, Boto3 |
 | [MusicPlaylist](https://github.com/Nitanshu715/MusicPlaylist) | Simple C-based app to search, manage, and add songs to playlist | C, Structures, File I/O |
-| [TransparaScore](https://github.com/Nitanshu715/TransparaScore-My-Hackathon-Explainable-Credit-Intelligence-Platform) | Real-time credit explanability platform made for CredTech Hackathon with the API integration of both Yahoo and Fred | Python, ML, CSS, Streamlit |
+| [TransparaScore](https://github.com/Nitanshu715/TransparaScore-My-Hackathon-Explainable-Credit-Intelligence-Platform) | Real-time credit explanability platform made for CredTech Hackathon with the API integration of both Yahoo and Fred | Python, Streamlit, Pandas, NumPy, Scikit-learn, SHAP, APIs (Yahoo Finance, FRED, World Bank, GDELT, Reuters), Streamlit Cloud |
 
 > 📌 Click any project name to view full code, README, and features.
 
