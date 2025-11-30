@@ -9,7 +9,7 @@
 ## 📄 Resume & Certifications
 
 ### 📅 Resume
-- [NitanshuTak_Resume.pdf](./resume/NitanshuTak_Resume.pdf)
+- [Nitanshu Tak Resume](./resume/NitanshuTak_Resume.pdf)
 
 ### 🏅 Certifications
 - [Software Development Internship - The Waiter Company](./certificates/TheWaiterCompanyInternshipCertificate.pdf)
