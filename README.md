@@ -15,7 +15,7 @@
 - OCI Multicloud Architect Professional
 - OCI DevOps Professional
 - AWS Academy Foundations
-- AWS Academy Archiect
+- AWS Academy Architect
 - AWS Academy Operations
 
 ## 🧠 Projects
