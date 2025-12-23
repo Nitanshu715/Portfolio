@@ -12,11 +12,11 @@
 - [Nitanshu Tak Resume](./resume/NitanshuTak_Resume.pdf)
 
 ### 🏅 Certifications
-- [Software Development Internship - The Waiter Company](./certificates/TheWaiterCompanyInternshipCertificate.pdf)
-- [AWS Academy Cloud Foundations](./certificates/AWSAcademyCloudFoundations.jpg)
-- [Introduction to MongoDB - Simplilearn](./certificates/IntroductionToMongoDBCertification.pdf)
-- [AdobeIndiaHackathonParticipationCertificate](./certificates/AdobeIndiaHackathonParticipationCertificate.pdf)
----
+- OCI Multicloud Architect Professional
+- OCI DevOps Professional
+- AWS Academy Foundations
+- AWS Academy Archiect
+- AWS Academy Operations
 
 ## 🧠 Projects
 
