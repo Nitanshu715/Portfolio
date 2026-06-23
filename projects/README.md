@@ -1,26 +1,59 @@
-
 # 🧠 Project Showcase
 
-Here are some of my featured projects. Each project links to its GitHub repository and includes a detailed breakdown.
+## ☁️ Cloud, DevOps & SRE
 
-| Project Name | Description | Tech Stack |
-|-------------|-------------|------------|
-| [Atlas-SRE](https://github.com/Nitanshu715/Atlas-SRE) | Production-grade Site Reliability Engineering platform on AWS EKS with Kubernetes self-healing, observability, failure injection, and recovery validation. | AWS EKS, Kubernetes, Docker, Prometheus, Grafana, ALB, IAM |
-| [NebulaStack](https://github.com/Nitanshu715/NebulaStack) | Cloud-native deployment platform provisioning AWS infrastructure through Terraform and deploying containerized services with secure networking. | Terraform, AWS EC2, RDS PostgreSQL, Docker, IAM, HCL |
-| [Hyperion](https://github.com/Nitanshu715/Hyperion) | Autonomous cognitive cloud control system that predicts infrastructure stress, evaluates risk, and executes remediation decisions. | Python, AWS CloudWatch, Machine Learning, Graph Modeling |
-| [AWSInfraControl](https://github.com/Nitanshu715/-AWS-InfraControl-CLI-Tool) | Terminal-based EC2 lifecycle management utility with automation, logging, and operational controls. | Python, AWS CLI, Boto3 |
-| [GigForge](https://github.com/Nitanshu715/GigForge-Gig-Worker-Infrastructure) | Event-driven HR and insurance infrastructure platform for gig workers with append-only ledgers and contribution tracking. | Next.js, TypeScript, PostgreSQL, FastAPI, Redis |
-| [AURUM](https://github.com/Nitanshu715/AURUM-Autonomous-Financial-Risk-System) | Autonomous financial risk intelligence pipeline integrating anomaly detection, forecasting, governance decisions, and audit trails. | Python, Risk Analytics, Autonomous Systems |
-| [TransparaScore](https://github.com/Nitanshu715/TransparaScore) | Explainable credit intelligence platform aggregating financial, macroeconomic, and news signals into transparent credit scores. | Python, Streamlit, Plotly, Scikit-learn, Financial APIs |
-| [Zyra](https://github.com/Nitanshu715/Zyra) | AI-powered career advisor offering resume analysis, skill-gap detection, learning recommendations, and interview preparation. | Python, Streamlit, NLP, Recommendation Systems |
-| [Observo](https://github.com/Nitanshu715/Observo) | Event-driven AI observability agent that plans, executes, logs, and summarizes workflows with webhook-based monitoring. | Python, OpenRouter, GPT-4o-mini, Webhooks |
-| [LuminaML](https://github.com/Nitanshu715/LuminaML) | Production-oriented machine learning pipeline for product price prediction using TF-IDF, SVD, and LightGBM ensembles. | Python, LightGBM, TF-IDF, Scikit-learn |
-| [Pokémon Pokédex AI](https://github.com/Nitanshu715/Pokemon-Pokedex) | Deep learning image classification system that identifies Pokémon using CNN-based computer vision models. | TensorFlow, Keras, Streamlit, CNN |
-| [Saarva Health](https://github.com/Nitanshu715/Saarva-Health-for-All) | Digital healthcare platform featuring EHR management, healthcare directories, and analytics for migrant workers. | Python, Streamlit, MongoDB, Scikit-learn |
-| [PhishGuard](https://github.com/Nitanshu715/PhishGuard) | AI-powered phishing detection Chrome extension backed by a machine learning classification service. | Flask, Random Forest, Chrome Extension, Python |
-| [Nitanshu Kafé](https://github.com/Nitanshu715/NITANSHU-KAFE) | Premium frontend experience showcasing responsive design, animation systems, and interaction engineering. | HTML, CSS, JavaScript |
-| [ExpenseFlow](https://github.com/Nitanshu715/ExpenseFlow-A-GUI-Based-Budget-Tracker) | Desktop budget management application with expense tracking and category-based management. | Java, Swing, OOP |
-| [FlightOpsPortal](https://github.com/Nitanshu715/FlightOps-Portal) | CLI-based airport and flight management platform with role-based operations. | Python, File Handling, CLI |
+| Project | Description | Tech Stack |
+|----------|------------|------------|
+| Atlas-SRE | Production-grade AWS EKS reliability platform with Kubernetes self-healing, observability, ingress, and failure injection testing. | AWS EKS, Kubernetes, Docker, Prometheus, Grafana, ALB |
+| NebulaStack | Cloud-native deployment architecture provisioning AWS infrastructure via Terraform and deploying Dockerized services with secure RDS connectivity. | Terraform, AWS, Docker, PostgreSQL, IAM |
+| Hyperion | Autonomous cloud control system that predicts infrastructure stress, evaluates risk, and triggers remediation decisions. | Python, AWS CloudWatch, ML, Graph Modeling |
+| AWS InfraControl CLI Tool | EC2 lifecycle automation utility with logging, monitoring, and operational controls. | Python, Boto3, AWS CLI |
+| SentinelAI | Containerized DevOps incident intelligence and observability platform. | Docker, DevOps, Monitoring, Incident Analytics |
 
-> 📌 Click on any project name to go directly to the GitHub repository.
+## 🤖 AI Systems & Autonomous Intelligence
+
+| Project | Description | Tech Stack |
+|----------|------------|------------|
+| Zyra | AI-powered career advisor with resume analysis, skill-gap detection, recommendations, and interview preparation. | Python, Streamlit, NLP, Recommendation Systems |
+| LuminaML | End-to-end ML inference pipeline for product price prediction using TF-IDF, SVD, and LightGBM ensembles. | Python, LightGBM, Scikit-learn |
+| Observo | Event-driven AI observability agent that plans, executes, logs, and summarizes workflows. | Python, OpenRouter, GPT-4o-mini |
+| Pokémon Pokédex AI | Deep learning image classification system for Pokémon recognition. | TensorFlow, Keras, CNN, Streamlit |
+
+## 💰 Financial Intelligence & Risk Systems
+
+| Project | Description | Tech Stack |
+|----------|------------|------------|
+| AURUM | Autonomous financial risk intelligence pipeline integrating anomaly detection, forecasting, governance, and remediation. | Python, Risk Analytics, Autonomous Systems |
+| TransparaScore | Explainable credit intelligence platform combining financial, macroeconomic, and news data sources. | Python, Streamlit, Plotly, Financial APIs |
+| Navika | RAG-powered financial intelligence platform using vector search and LLM reasoning. | FAISS, Gemini, MiniLM, SQLAlchemy |
+
+## 🌐 Platforms & Digital Infrastructure
+
+| Project | Description | Tech Stack |
+|----------|------------|------------|
+| GigForge | Gig-worker HR, insurance, and contribution infrastructure platform with append-only financial ledgers. | Next.js, TypeScript, PostgreSQL, FastAPI |
+| Saarva Health | Digital healthcare platform featuring EHR management, hospital discovery, and analytics. | Python, MongoDB, Streamlit |
+
+## 🔐 Security & Trust Systems
+
+| Project | Description | Tech Stack |
+|----------|------------|------------|
+| PhishGuard | AI-powered phishing detection Chrome extension with ML-based URL classification. | Flask, Random Forest, Chrome Extension |
+| Helios | ML-driven cloud anomaly detection and self-healing security platform. | Python, AWS, Isolation Forest, CloudWatch |
+
+## 🎨 Frontend, Product & Experience Engineering
+
+| Project | Description | Tech Stack |
+|----------|------------|------------|
+| Nitanshu Kafé | Premium frontend experience showcasing advanced animations, interactions, and UX engineering. | HTML, CSS, JavaScript |
+
+## 📚 Foundation Projects
+
+| Project | Description | Tech Stack |
+|----------|------------|------------|
+| ExpenseFlow | Desktop expense management application with GUI-based budgeting workflows. | Java, Swing, OOP |
+| FlightOps Portal | CLI-based airport and flight operations management system. | Python, File Handling |
+| MusicPlaylist | Internship UI-focused application work and frontend component engineering. | React, Next.js |
+| NexusAnalytics | Analytics-focused academic project demonstrating data analysis workflows. | Python, Analytics |
+| SuryaDrishti | AI/vision-focused project from portfolio ecosystem. | AI/ML |
 
